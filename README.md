@@ -31,4 +31,6 @@ When you submit a pull request, a CLA-bot automatically determines whether you n
 * For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 * Contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
+[![Build Status](https://dev.azure.com/Trainer19052026/IBM-ICP-DevOps/_apis/build/status%2Fsrikanthreddy223.python-sample-vscode-flask-tutorial?branchName=main)](https://dev.azure.com/Trainer19052026/IBM-ICP-DevOps/_build/latest?definitionId=8&branchName=main)
+
 This is Srikanth Reddy
